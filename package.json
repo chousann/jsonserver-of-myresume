@@ -9,7 +9,7 @@
         "lodash": "3.8.0"
     },
 	"engines": {
-		"node": "0.10.34"
+		"node": "0.10.34 || 0.10.x"
 	},
     "scripts": {
         "start": "node server.js"

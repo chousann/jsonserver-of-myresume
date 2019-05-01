@@ -555,6 +555,11 @@
             "steno": "^0.3.2"
           },
           "dependencies": {
+            "lodash": {
+              "version": "3.10.1",
+              "resolved": "http://registry.npm.taobao.org/lodash/download/lodash-3.10.1.tgz",
+              "integrity": "sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y="
+            },
             "steno": {
               "version": "0.3.2",
               "resolved": "https://registry.npm.taobao.org/steno/download/steno-0.3.2.tgz",
@@ -799,6 +804,11 @@
                         "sprintf-js": "~1.0.2"
                       },
                       "dependencies": {
+                        "lodash": {
+                          "version": "3.10.1",
+                          "resolved": "http://registry.npm.taobao.org/lodash/download/lodash-3.10.1.tgz",
+                          "integrity": "sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y="
+                        },
                         "sprintf-js": {
                           "version": "1.0.2",
                           "resolved": "http://registry.npm.taobao.org/sprintf-js/download/sprintf-js-1.0.2.tgz",
@@ -1148,9 +1158,9 @@
       }
     },
     "lodash": {
-      "version": "3.8.0",
-      "resolved": "http://registry.npm.taobao.org/lodash/download/lodash-3.8.0.tgz",
-      "integrity": "sha1-N265i9zZOCqTZcM8TLglDeEyW5E="
+      "version": "4.17.11",
+      "resolved": "http://registry.npm.taobao.org/lodash/download/lodash-4.17.11.tgz",
+      "integrity": "sha1-s56mIp72B+zYniyN8SU2iRysm40="
     }
   }
 }
